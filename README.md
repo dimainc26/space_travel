@@ -12,7 +12,7 @@ Space Travel est l'un de mes tout premiers sites web, développé en pur HTML et
 - CSS
 
 ## Captures d'écran
-![Home Screen](https://github.com/dimainc26/space_travel/blob/main/assets/home_screen.png)
+![Home Screen](https://github.com/dimainc26/space_travel/blob/main/assets/home.png)
 ![Trips](https://github.com/dimainc26/space_travel/blob/main/assets/trips.png)
 ![About](https://github.com/dimainc26/space_travel/blob/main/assets/about.png)
 
